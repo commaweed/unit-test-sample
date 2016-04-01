@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: tjjenk2.model.EnvironmentTypeTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.64 sec - in tjjenk2.model.EnvironmentTypeTest
